@@ -31,3 +31,9 @@
   </div></div>
   
 ### 2- Create the docs folder in the base file
+
+### 3- Run WhatsApp bot
+
+<pre>
+<code>node index.js</code>
+</pre>
