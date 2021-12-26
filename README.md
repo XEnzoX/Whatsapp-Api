@@ -4,7 +4,7 @@
 
 <div class="snippet-clipboard-content position-relative overflow-auto">
   <pre>
-<code>npm install</code>
+<code>npm i</code>
 </pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="$ npm install copy-text-to-clipboard" tabindex="0" role="button" style="display: inherit;">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="15" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
