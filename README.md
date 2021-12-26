@@ -1,6 +1,6 @@
-# Install
+# Install & Create
 
-### Install Dependencies
+### 1- Install Dependencies
 
 <div class="snippet-clipboard-content position-relative overflow-auto">
   <pre>
@@ -30,4 +30,4 @@
     </clipboard-copy>
   </div></div>
   
-# Create the docs folder in the base file
+### 2- Create the docs folder in the base file
